@@ -33,11 +33,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sambit1110&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hrittima&show_icons=true&theme=radical"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sambit1110&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrittima&theme=radical"/>
 </p>
 
 ---
