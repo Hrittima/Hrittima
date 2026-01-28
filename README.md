@@ -3,6 +3,10 @@
 </p>
 <h1 align="center">Hi there! I'm Hrittima 👋</h1>
 <h3 align="center">CSE Student | Tech Enthusiast</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Hrittima/Hrittima/main/gif3.gif" width="500">
+</p>
+
 
 
 <!--
