@@ -1,4 +1,9 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hrittima/Hrittima/main/[githubprofile.gif](https://imgs.search.brave.com/PPEWUuEygpMaKZ9Xtbr0RvfG1_wdqUuO7kc-czBenIg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJhY2Nlc3Mu/Y29tL2Z1bGwvODM1/MTI2My5naWY.gif)" width="500">
+  <img src="https://raw.githubusercontent.com/Hrittima/Hrittima/main/profilegit.gif" width="500">
+</p>
+<h1 align="center">Hi there! I'm Hrittima 👋</h1>
+<h3 align="center">CSE Student | Tech Enthusiast</h3>
 
 <!--
 **Hrittima/Hrittima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
